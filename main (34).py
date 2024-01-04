@@ -276,6 +276,6 @@ async def bar_exp(ctx):
   await ctx.send(file=chart_file, embed=embed)
 
 
-TOKEN = "MTE2ODQwOTI2Njk0MDU0NzEyMg.GO7wLz.RubPzJYSGvW1VeXHagut1o0emkRo9sYpaj9LYQ"
+TOKEN = HIDDEN
 
 bot.run(TOKEN)
